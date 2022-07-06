@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "name": "backend_express_lev1_1",
+  "version": "1.0.0",
+  "description": "Exercise using express for the fisrt time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "exercise"
+  ],
+  "author": "Michaela Werthmann <werthmannsupercode@gmail.com>",
+  "license": "ISC"
+}
